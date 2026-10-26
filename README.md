@@ -12,13 +12,10 @@ A hands-on Security Operations Center (SOC) lab using Wazuh on Kali Linux to mon
 ## Lab Evidence
 
 ### 1. Wazuh Threat Hunting Alert
-![Wazuh Threat Hunting Alert](01-wazuh-threat-hunting-alert.png)
 
 ### 2. Cloudflare Security Event Details
-![Cloudflare Alert Details](02-cloudflare-alert-details.png)
 
 ### 3. Wazuh Manager Running
-![Wazuh Manager Status](03-wazuh-manager-running.png)
 
 ## Tools Used
 - Wazuh SIEM/XDR
